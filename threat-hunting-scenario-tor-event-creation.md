@@ -73,9 +73,9 @@ DeviceFileEvents
 ---
 
 ## Created By:
-- **Author Name**: Josh Madakor
-- **Author Contact**: https://www.linkedin.com/in/joshmadakor/
-- **Date**: August 31, 2024
+- **Author Name**: Samone Jones
+- **Author Contact**: [https://www.linkedin.com/in/samonejones/](https://www.linkedin.com/in/samone-jones-394879167/)
+- **Date**: June 11, 2025
 
 ## Validated By:
 - **Reviewer Name**: 
@@ -92,4 +92,4 @@ DeviceFileEvents
 ## Revision History:
 | **Version** | **Changes**                   | **Date**         | **Modified By**   |
 |-------------|-------------------------------|------------------|-------------------|
-| 1.0         | Initial draft                  | `September  6, 2024`  | `Josh Madakor`   
+| 1.0         | Initial draft                  | `June 11, 2025`  | `Samone Jones`   
